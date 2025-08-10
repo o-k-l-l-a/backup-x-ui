@@ -21,8 +21,7 @@ bash setup.sh
  Or download and run setup directly
 
 ```bash
-curl -O https://raw.githubusercontent.com/o-k-l-l-a/backup-x-ui/main/setup.sh
-bash setup.sh
+bash <(curl -Ls https://raw.githubusercontent.com/o-k-l-l-a/backup-x-ui/main/setup.sh)
 ```
 
 You will be prompted to enter:
