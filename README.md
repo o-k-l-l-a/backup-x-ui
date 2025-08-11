@@ -28,7 +28,7 @@ You will be prompted to enter:
 
 * Telegram Bot Token (e.g. `123456:ABC-DEF`)
 * Telegram Chat ID (number, can be negative)
-* SOCKS5 Proxy IP (e.g. `45.135.241.253`)
+* SOCKS5 Proxy IP (e.g. `127.0.0.1`)
 * SOCKS5 Proxy Port (e.g. `3434`)
 
 This will create the `backup.sh` script and schedule it via cron to run every 2 hours.
